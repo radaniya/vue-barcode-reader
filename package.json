@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/olefirenko/vue-barcode-reader#readme",
   "dependencies": {
-    "@zxing/library": "git+https://github.com/radaniya/zxing-js/dist"
+    "@zxing/library": "git+https://github.com/radaniya/zxing-js/tree/master/dist"
   }
 }
